@@ -13,6 +13,9 @@ public class ClassStart3 {
         student2.age = 16;
         student2.grade = 80;
 
+        System.out.println(student1);
+        System.out.println(student2);
+
         System.out.println("이름 : " + student1.name +
                 " 나이: " + student1.age +
                 " 성적: " + student1.grade);
