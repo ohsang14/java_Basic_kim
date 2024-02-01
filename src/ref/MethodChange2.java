@@ -14,4 +14,5 @@ public class MethodChange2 {
         System.out.println("dataX = " + dataX);
         dataX.value =20;
     }
+
 }
