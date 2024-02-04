@@ -8,7 +8,6 @@ public class ShoppingCartMain {
         Item item2 = new Item("상추", 3000, 4);
         cart.addItem(item1);
         cart.addItem(item2);
-
         cart.displayItems();
     }
 }
