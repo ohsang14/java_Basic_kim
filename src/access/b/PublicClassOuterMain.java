@@ -1,6 +1,6 @@
 package access.b;
 
-import access.a.DefaultClass1;
+// import access.a.DefaultClass1;
 import access.a.PublicClass;
 
 public class PublicClassOuterMain {
