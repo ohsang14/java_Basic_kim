@@ -10,10 +10,12 @@ public class Item{
         this.price = price;
         this.quantity = quantity;
     }
+    //item1
     public String getName(){
         return name;
     }
     public int getTotalPrice(){
         return price * quantity;
     }
+
 }
