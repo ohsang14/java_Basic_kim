@@ -2,9 +2,6 @@ package static2.ex;
 
 public class MathArrayUtilsMain {
     public static void main(String[] args) {
-        // MathArrayUtils mathArrayUtils = new MathArrayUtils();
-
-
         int[] values = {1, 2, 3, 4, 5};
         System.out.println("sum=" + MathArrayUtils.sum(values));
         System.out.println("average=" + MathArrayUtils.average(values));
