@@ -1,6 +1,6 @@
-package extends1.overriding;
+package extends1.Overriding;
 
-public class HydrogenCar  extends Car {
+public class HydrogenCar extends Car {
     public void fillHydrogen(){
         System.out.println("수소를 충전합니다.");
     }
